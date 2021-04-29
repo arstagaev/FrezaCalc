@@ -1,0 +1,5 @@
+C:\Users\ion8\Documents\6 semsetr\CalculatorFreza.exe
+C:\Users\ion8\Documents\6 semsetr\CalculatorFreza.dll
+C:\Users\ion8\Documents\6 semsetr\CalculatorFreza.deps.json
+C:\Users\ion8\Documents\6 semsetr\CalculatorFreza.runtimeconfig.json
+C:\Users\ion8\Documents\6 semsetr\CalculatorFreza.pdb

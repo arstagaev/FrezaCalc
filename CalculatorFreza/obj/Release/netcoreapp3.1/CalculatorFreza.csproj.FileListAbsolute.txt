@@ -1,0 +1,15 @@
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\bin\Release\netcoreapp3.1\CalculatorFreza.exe
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\bin\Release\netcoreapp3.1\CalculatorFreza.deps.json
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\bin\Release\netcoreapp3.1\CalculatorFreza.runtimeconfig.json
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\bin\Release\netcoreapp3.1\CalculatorFreza.runtimeconfig.dev.json
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\bin\Release\netcoreapp3.1\CalculatorFreza.dll
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\bin\Release\netcoreapp3.1\CalculatorFreza.pdb
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\obj\Release\netcoreapp3.1\CalculatorFreza.csprojAssemblyReference.cache
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\obj\Release\netcoreapp3.1\CalculatorFreza.Form1.resources
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\obj\Release\netcoreapp3.1\CalculatorFreza.csproj.GenerateResource.cache
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\obj\Release\netcoreapp3.1\CalculatorFreza.AssemblyInfoInputs.cache
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\obj\Release\netcoreapp3.1\CalculatorFreza.AssemblyInfo.cs
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\obj\Release\netcoreapp3.1\CalculatorFreza.csproj.CoreCompileInputs.cache
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\obj\Release\netcoreapp3.1\CalculatorFreza.dll
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\obj\Release\netcoreapp3.1\CalculatorFreza.pdb
+C:\Users\ion8\source\repos\CalculatorFreza\CalculatorFreza\obj\Release\netcoreapp3.1\CalculatorFreza.genruntimeconfig.cache
